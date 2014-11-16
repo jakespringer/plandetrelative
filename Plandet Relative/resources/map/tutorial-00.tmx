@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="32" height="32" tilewidth="32" tileheight="32">
+ <objectgroup name="Planets">
+  <object type="planet" x="-99" y="236" width="242" height="242">
+   <ellipse/>
+  </object>
+  <object type="planet" x="406" y="90" width="154" height="154">
+   <ellipse/>
+  </object>
+  <object type="planet" x="847" y="245" width="231" height="231">
+   <ellipse/>
+  </object>
+  <object type="planet" x="359" y="464" width="166" height="166">
+   <ellipse/>
+  </object>
+  <object type="planet" x="769" y="600" width="119" height="119">
+   <ellipse/>
+  </object>
+  <object type="planet" x="231" y="788" width="217" height="217">
+   <ellipse/>
+  </object>
+  <object type="planet" x="-143" y="686" width="115" height="115">
+   <ellipse/>
+  </object>
+  <object type="planet" x="1148" y="785" width="82" height="82">
+   <ellipse/>
+  </object>
+  <object type="spawner" x="444" y="979" width="31" height="31">
+   <ellipse/>
+  </object>
+  <object type="slimeenemy" x="434" y="295" width="32" height="32"/>
+ </objectgroup>
+ <objectgroup name="Living">
+  <object type="player" x="-145" y="338" width="36" height="34">
+   <ellipse/>
+  </object>
+  <object type="slimeenemy" x="328" y="341" width="33" height="32"/>
+  <object type="spawner" x="648" y="97" width="54" height="45">
+   <ellipse/>
+  </object>
+ </objectgroup>
+</map>
